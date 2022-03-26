@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/32x32-bat-sprite.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/BackgroundMusicBody.wav</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/bangers.spritefont</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Bullet.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Chest.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Enemy.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Explosion7.wav</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Gun1.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Gun2.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Hit_Hurt.wav</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Man.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/OpeningPiano.wav</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Pixel Saloon.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/PIXEL.png</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/Shoot.wav</File>
+    <File>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/slime.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

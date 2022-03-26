@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/BackgroundMusicBody.wav</SourceFile>
+  <SourceTime>2022-02-25T19:21:06.5927837-06:00</SourceTime>
+  <DestFile>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/bin/Windows/Content/BackgroundMusicBody.xnb</DestFile>
+  <DestTime>2022-03-25T21:53:06.7719651-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Caleb Rosebaugh/OneDrive/Documents/School Work/CS 580/GameScreenFramework/TitleScreen/Content/bin/Windows/Content/BackgroundMusicBody.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
